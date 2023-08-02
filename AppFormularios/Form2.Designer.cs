@@ -88,6 +88,7 @@
             // 
             // txtArea
             // 
+            this.txtArea.Enabled = false;
             this.txtArea.Location = new System.Drawing.Point(84, 211);
             this.txtArea.Name = "txtArea";
             this.txtArea.Size = new System.Drawing.Size(171, 20);

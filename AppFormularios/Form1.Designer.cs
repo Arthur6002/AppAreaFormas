@@ -87,6 +87,7 @@
             // 
             // txtResultado
             // 
+            this.txtResultado.Enabled = false;
             this.txtResultado.Location = new System.Drawing.Point(87, 177);
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.Size = new System.Drawing.Size(259, 20);
