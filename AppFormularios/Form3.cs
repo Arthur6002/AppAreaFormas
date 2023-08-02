@@ -17,21 +17,22 @@ namespace AppFormularios
             InitializeComponent();
         }
 
-        private void btnAreaQuadrado_Click(object sender, EventArgs e)
+
+        private void bntFechar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void quadradoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form frm1 = new frm1();
             frm1.ShowDialog();
         }
 
-        private void btnAreaRetangulo_Click(object sender, EventArgs e)
+        private void retanguloToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form frmAreaRetangulo = new frmAreaRetangulo();
             frmAreaRetangulo.ShowDialog();
-        }
-
-        private void bntFechar_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
