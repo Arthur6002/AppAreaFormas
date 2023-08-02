@@ -28,5 +28,10 @@ namespace AppFormularios
             Form frmAreaRetangulo = new frmAreaRetangulo();
             frmAreaRetangulo.ShowDialog();
         }
+
+        private void bntFechar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
