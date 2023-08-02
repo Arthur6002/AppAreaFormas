@@ -44,9 +44,9 @@
             // 
             // btnMenu
             // 
-            this.btnMenu.Location = new System.Drawing.Point(12, 377);
+            this.btnMenu.Location = new System.Drawing.Point(4, 2);
             this.btnMenu.Name = "btnMenu";
-            this.btnMenu.Size = new System.Drawing.Size(119, 82);
+            this.btnMenu.Size = new System.Drawing.Size(63, 31);
             this.btnMenu.TabIndex = 0;
             this.btnMenu.Text = "Menu";
             this.btnMenu.UseVisualStyleBackColor = true;
@@ -72,15 +72,15 @@
             // 
             // txtLado1
             // 
-            this.txtLado1.Location = new System.Drawing.Point(104, 66);
+            this.txtLado1.Location = new System.Drawing.Point(84, 66);
             this.txtLado1.Name = "txtLado1";
-            this.txtLado1.Size = new System.Drawing.Size(151, 20);
+            this.txtLado1.Size = new System.Drawing.Size(171, 20);
             this.txtLado1.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(38, 211);
+            this.label3.Location = new System.Drawing.Point(38, 214);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(29, 13);
             this.label3.TabIndex = 4;
@@ -88,21 +88,21 @@
             // 
             // txtArea
             // 
-            this.txtArea.Location = new System.Drawing.Point(104, 211);
+            this.txtArea.Location = new System.Drawing.Point(84, 211);
             this.txtArea.Name = "txtArea";
-            this.txtArea.Size = new System.Drawing.Size(151, 20);
+            this.txtArea.Size = new System.Drawing.Size(171, 20);
             this.txtArea.TabIndex = 5;
             // 
             // txtLado2
             // 
-            this.txtLado2.Location = new System.Drawing.Point(104, 103);
+            this.txtLado2.Location = new System.Drawing.Point(84, 103);
             this.txtLado2.Name = "txtLado2";
-            this.txtLado2.Size = new System.Drawing.Size(151, 20);
+            this.txtLado2.Size = new System.Drawing.Size(171, 20);
             this.txtLado2.TabIndex = 6;
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(104, 152);
+            this.btnCalcular.Location = new System.Drawing.Point(132, 157);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(75, 23);
             this.btnCalcular.TabIndex = 7;
@@ -112,7 +112,7 @@
             // 
             // btnLimpar
             // 
-            this.btnLimpar.Location = new System.Drawing.Point(104, 270);
+            this.btnLimpar.Location = new System.Drawing.Point(132, 268);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpar.TabIndex = 8;
@@ -123,9 +123,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(357, 36);
+            this.pictureBox1.Location = new System.Drawing.Point(359, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(436, 162);
+            this.pictureBox1.Size = new System.Drawing.Size(803, 532);
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             // 
@@ -133,7 +133,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(811, 475);
+            this.ClientSize = new System.Drawing.Size(1259, 570);
             this.ControlBox = false;
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnLimpar);

@@ -34,9 +34,9 @@
             // 
             // btnAreaQuadrado
             // 
-            this.btnAreaQuadrado.Location = new System.Drawing.Point(47, 53);
+            this.btnAreaQuadrado.Location = new System.Drawing.Point(221, 173);
             this.btnAreaQuadrado.Name = "btnAreaQuadrado";
-            this.btnAreaQuadrado.Size = new System.Drawing.Size(104, 23);
+            this.btnAreaQuadrado.Size = new System.Drawing.Size(109, 90);
             this.btnAreaQuadrado.TabIndex = 0;
             this.btnAreaQuadrado.Text = "Area Quadrado";
             this.btnAreaQuadrado.UseVisualStyleBackColor = true;
@@ -44,9 +44,9 @@
             // 
             // btnAreaRetangulo
             // 
-            this.btnAreaRetangulo.Location = new System.Drawing.Point(193, 53);
+            this.btnAreaRetangulo.Location = new System.Drawing.Point(444, 173);
             this.btnAreaRetangulo.Name = "btnAreaRetangulo";
-            this.btnAreaRetangulo.Size = new System.Drawing.Size(95, 23);
+            this.btnAreaRetangulo.Size = new System.Drawing.Size(109, 90);
             this.btnAreaRetangulo.TabIndex = 1;
             this.btnAreaRetangulo.Text = "Area Retangulo";
             this.btnAreaRetangulo.UseVisualStyleBackColor = true;

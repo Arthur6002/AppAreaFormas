@@ -42,9 +42,9 @@
             // 
             // bntMenu
             // 
-            this.bntMenu.Location = new System.Drawing.Point(12, 358);
+            this.bntMenu.Location = new System.Drawing.Point(1, 2);
             this.bntMenu.Name = "bntMenu";
-            this.bntMenu.Size = new System.Drawing.Size(100, 80);
+            this.bntMenu.Size = new System.Drawing.Size(66, 29);
             this.bntMenu.TabIndex = 1;
             this.bntMenu.Text = "Menu";
             this.bntMenu.UseVisualStyleBackColor = true;
@@ -54,7 +54,7 @@
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(536, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(400, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(622, 384);
             this.pictureBox1.TabIndex = 2;
@@ -116,7 +116,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1170, 450);
+            this.ClientSize = new System.Drawing.Size(1076, 450);
             this.ControlBox = false;
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnCalcular);
